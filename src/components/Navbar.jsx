@@ -193,7 +193,7 @@ const Navbar = () => {
               Contact
             </NavLink>
           </li>
-          { open &&
+          {/* { open &&
           <li>
             <span className="button-tag" onClick={()=>setOpenMenu(!openMenu)}>LogOut</span>
             {openMenu &&<li>
@@ -201,8 +201,8 @@ const Navbar = () => {
                   Log Out
                 </button>
             </li>}
-          </li>}
-          <li>
+          </li>} */}
+          {/* <li>
             <span className="button-tag" onClick={()=>setOpenMenu(!openMenu)}>LogIn</span>
             {openMenu &&<li>
                 <button className="button" onClick={handleLogin}>
@@ -210,6 +210,14 @@ const Navbar = () => {
                 </button>
             </li>}
           </li>
+          <li>
+            <span className="button-tag" onClick={()=>setOpenMenu(!openMenu)}>LogIn</span>
+            {openMenu &&<li>
+                <button className="button" onClick={handleLogin}>
+                  Log In
+                </button>
+            </li>}
+          </li> */}
           
           {/* <li className="button2" onClick={(e) => e.target.style.background = "red" }>
           <Button onClick={() => loginWithRedirect()}>Log In</Button>
