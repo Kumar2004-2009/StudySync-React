@@ -203,7 +203,7 @@ const Navbar = () => {
             </li>}
           </li>}
           <li>
-            <span className="button-tag" onClick={()=>setOpenMenu(!openMenu)}>LogOut</span>
+            <span className="button-tag" onClick={()=>setOpenMenu(!openMenu)}>LogIn</span>
             {openMenu &&<li>
                 <button className="button" onClick={handleLogin}>
                   Log In
