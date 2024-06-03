@@ -5,13 +5,9 @@ import { NavLink } from 'react-router-dom';
 
 const Error = () => {
   return (
-    <Wrapper>
-        <img src="./images/error.svg" alt="error" />
-        <NavLink to="/">
-        <Button className='btn'>Go back</Button>
-        </NavLink>
-        
-    </Wrapper>
+    <div>
+      <Home/>
+    </div>
   )
 }
 

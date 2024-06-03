@@ -24,7 +24,7 @@ const AppProvider=({children}) =>{
             type: "Home_Update",
             payload:{
                 name:"Seamless Learning for Brighter Futures",
-                image:"./images/hero.svg",
+                image:"https://www.kudosintech.com/wp-content/uploads/2023/07/Mobile-Application-Development.svg",
                 content:"Our innovative platform offers an effortless and seamless approach to learning, empowering students of all ages to achieve brighter futures. Join us on a transformative journey to simplify education and unlock your full potential.",
                 btnContent:"hire me",
                 heading: "Very proud to introduce",
@@ -41,7 +41,7 @@ const AppProvider=({children}) =>{
             type: "About_Update",
             payload: {
                 name: "Kumar Piyush",
-                image: "./images/about1.svg",
+                image: "https://miro.medium.com/v2/resize:fit:786/format:webp/1*e6IXOFr8L_xz8ELBZG0_ig.png",
                 content: "I'm an undergraduate student from NSIT specialized in Information Technology. Along with my degree I've completed Java,HTML and Frontend Courses online.My Goal is to leverage my Java expertise to contribute meaningfully to innovative projects and to build a succesful career as a Full Stack Developer.Eager to collaborate and grow within the ever-evolving landscape of Java development.",
                 btnContent:"Known more",
                 heading: "This is me"

@@ -25,22 +25,22 @@ function Home() {
         <div class="company-grid">
 
             <div class="company-logo">
-                <img  src="./images/Google.svg" class="svg-img"/>
+                <img  src="https://icones.pro/wp-content/uploads/2021/02/google-icone-symbole-png-logo-gris.png" class="svg-img"/>
                 <span class="logo-txt">Google</span>
             </div>
 
             <div class="company-logo">
-                <img  src="./images/Microsoft.svg" class="svg-img"/>
+                <img  src="https://cdn.icon-icons.com/icons2/2407/PNG/512/microsoft_icon_146144.png" class="svg-img"/>
                 <span class="logo-txt">Microsoft</span>
             </div>
 
             <div class="company-logo">
-                <img  src="./images/linkedin.svg" class="svg-img"/>
+                <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7HIfMu1JrdU5sHrLrj-zT7AOwTDuL1XFQFA&s" class="svg-img"/>
                 <span class="logo-txt">Linkedin</span>
             </div>
 
             <div class="company-logo">
-                <img  src="./images/VectorEdu.svg" class="svg-img"/>
+                <img  src="https://png.pngtree.com/png-vector/20240528/ourmid/pngtree-square-black-button-with-a-white-square-on-it-vector-png-image_6953616.png" class="svg-img"/>
                 <span class="logo-txt">VectorEdu</span>
             </div>
 
@@ -61,7 +61,7 @@ function Home() {
             <div class="feature-grid">
                 <div class="feature-card">
                     <div class="icon-container">
-                        <img class="feature-svg" src="./images/PersonalizedLearn.svg"/>
+                        <img class="feature-svg" src="https://plnproject.org/wp-content/uploads/2021/08/1a-1.png"/>
                     </div>
                     <div class="feature-info">
                         <div class="feature-title">
@@ -75,7 +75,7 @@ function Home() {
                 
                 <div class="feature-card">
                     <div class="icon-container">
-                        <img class="feature-svg" src="./images/Affordability.svg"/>
+                        <img class="feature-svg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTiWTUJyFgQg4pzqzCYLCMaFJEhIwBLV2qhQ&s"/>
                     </div>
                     <div class="feature-info">
                         <div class="feature-title">
@@ -89,7 +89,7 @@ function Home() {
                 
                 <div class="feature-card">
                     <div class="icon-container">
-                        <img class="feature-svg" src="./images/IndustryPatner.svg"/>
+                        <img class="feature-svg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRGP5losKnxdHpZmDpnu0qrY58c9GvPgCi4A&s"/>
                     </div>
                     <div class="feature-info">
                         <div class="feature-title">
@@ -102,7 +102,7 @@ function Home() {
                 </div>
                 <div class="feature-card">
                     <div class="icon-container">
-                        <img class="feature-svg" src="./images/InnovativeTech.svg"/>
+                        <img class="feature-svg" src="https://cdn-icons-png.freepik.com/512/8099/8099738.png"/>
                     </div>
                     <div class="feature-info">
                         <div class="feature-title">
@@ -116,7 +116,7 @@ function Home() {
                 
                 <div class="feature-card">
                     <div class="icon-container">
-                        <img class="feature-svg" src="./images/IndustryPatner.svg"/>
+                        <img class="feature-svg" src="https://previews.123rf.com/images/faysalfarhan/faysalfarhan1711/faysalfarhan171132674/89523708-tech-support-icon-isolated-on-special-green-round-button-abstract-illustration.jpg"/>
                     </div>
                     <div class="feature-info">
                         <div class="feature-title">
@@ -130,7 +130,7 @@ function Home() {
               
                 <div class="feature-card">
                     <div class="icon-container">
-                        <img class="feature-svg" src="./images/Analytics.svg"/>
+                        <img class="feature-svg" src="https://cdn-icons-png.flaticon.com/512/7270/7270513.png"/>
                     </div>
                     <div class="feature-info">
                         <div class="feature-title">
